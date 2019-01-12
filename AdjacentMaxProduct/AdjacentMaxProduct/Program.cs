@@ -11,7 +11,7 @@ namespace codesignal4
 
     class Program
     {
-        public static int adjacentElementsProduct(int[] inputArray)
+        public static int AdjacentElementsProduct(int[] inputArray)
         {
             int product = 0;
             List<int> pr = new List<int>();
@@ -25,7 +25,7 @@ namespace codesignal4
         static void Main(string[] args)
         {
             int[] inputArray = { 3, 6, 2, -5, 7, 3 };
-            Console.WriteLine(adjacentElementsProduct(inputArray));
+            Console.WriteLine(AdjacentElementsProduct(inputArray));
 
             Console.ReadKey();
         }
