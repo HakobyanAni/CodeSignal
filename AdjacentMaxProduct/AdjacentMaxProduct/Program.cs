@@ -8,7 +8,7 @@ namespace codesignal4
 {
     // Given an array of integers, find the pair of adjacent
     // elements that has the largest product and return that product.
-
+    
     class Program
     {
         public static int AdjacentElementsProduct(int[] inputArray)
