@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace ankap
 {
+    // Given the string, check if it is a palindrome.
+
     class Program
     {
         static string ArrayReverse(string inputString)
